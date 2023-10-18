@@ -8,4 +8,4 @@ How to install package on Mu:
 <br>
 <img src="https://github.com/Chen-Fu/Scripts-for-occasional-use/blob/main/Mu%20editor%20package%20manager%20explanation.png" width="80%">
 
-Mu Download Link: https://codewith.mu/
+See more info on the official website: https://codewith.mu/
